@@ -46,7 +46,8 @@
     "request":"~2.36.0",
     "node-red-contrib-ibm-watson-iot":"0.x",
     "node-red-contrib-iot-virtual-device":"0.1.0",
-    "node-red-node-watson":"latest"
+    "node-red-node-watson":"latest",
+    "node-red-dashboard":"latest"
   },
   "config": {
     "engine-strict": true
