@@ -1,7 +1,7 @@
 {
   "name": "elevator-simulator",
   "version": "0.1.0",
-  "description": "An Elevator Simulator, that helps simulate Elevator operations, all using Node-RED nodes"
+  "description": "An Elevator Simulator, that helps simulate Elevator operations, all using Node-RED nodes",
   "engines": {
     "node": ">=0.12.x"
   },
