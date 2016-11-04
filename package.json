@@ -43,7 +43,10 @@
     "node-red-contrib-bluemix-hdfs":"0.x",
     "node-red-nodes-cf-sqldb-dashdb":"0.x",
     "node-red-contrib-scx-ibmiotapp":"0.x",
-    "request":"~2.36.0"
+    "request":"~2.36.0",
+    "node-red-contrib-ibm-watson-iot":"0.x",
+    "node-red-contrib-iot-virtual-device":"0.1.0",
+    "node-red-node-watson":"latest"
   },
   "config": {
     "engine-strict": true
