@@ -10,7 +10,6 @@ applications:
   - iotf-service
   - cloudantNoSQLDB
   name: elevator-simulator
-  host: elevator-simulator
   memory: 528M
   instances: 1
   disk_quota: 1024M
