@@ -3,13 +3,13 @@ declared-services:
     label: 23vzyy
     plan: iotf-service-free
   cloudantNoSQLDB:
-    label: cloudantNoSQLDB
+    label: Cloudant-bi
     plan: Lite
 applications:
 - services:
-  - iotf-service
-  - cloudantNoSQLDB
-  name: elevator-simulator
+  - 23vzyy
+  - Cloudant-bi
+  name: elevator-watson-iot-simulator-mdm
   memory: 256M
   instances: 1
   disk_quota: 1024M
