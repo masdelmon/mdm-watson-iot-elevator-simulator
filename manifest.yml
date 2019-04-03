@@ -1,6 +1,6 @@
 declared-services:
   iotf-service:
-    label: iotf-service
+    label: 23vzyy
     plan: iotf-service-free
   cloudantNoSQLDB:
     label: cloudantNoSQLDB
@@ -10,6 +10,6 @@ applications:
   - iotf-service
   - cloudantNoSQLDB
   name: elevator-simulator
-  memory: 528M
+  memory: 256M
   instances: 1
   disk_quota: 1024M
