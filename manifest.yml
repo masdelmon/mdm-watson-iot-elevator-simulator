@@ -1,7 +1,7 @@
 declared-services:
   iot-service:
     label: iot-service
-    plan: iot-service-free
+    plan: iotf-service-free
   cloudantNoSQLDB:
     label: Cloudant-bi
     plan: Lite
